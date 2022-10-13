@@ -5,10 +5,6 @@
 
 #include <unistd.h>
 
-/**
- * main - Print "and that piece of hat is useful"
- * Return: Always 1 (Success)
- */
 int main(void)
 {
 	/*
