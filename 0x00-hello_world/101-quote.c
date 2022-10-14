@@ -1,12 +1,7 @@
-/**
- *  File: 101-quote.c
- *  Ref: Brennan D Baraban
- */
-
 #include <unistd.h>
 
 /**
- * main- the main function
+ * main- the program entry point
  * Return: Always 1 (Success)
  */
 int main(void)
