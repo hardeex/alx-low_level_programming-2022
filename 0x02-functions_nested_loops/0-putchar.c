@@ -5,8 +5,7 @@
  * Return 0 if successfully
  */
 
-int main()
+int _putchar(char myVar)
 {
-	printf("_putchar \n");
-	return 0;
+	return (write(1, &myVar, 1));
 }
