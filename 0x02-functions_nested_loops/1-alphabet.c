@@ -1,5 +1,4 @@
-#include <stdio>
-
+#include "main.h"
 /*
  * A program that print letter a to z
  */
