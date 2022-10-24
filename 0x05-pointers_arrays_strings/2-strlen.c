@@ -5,11 +5,11 @@
  * @s: The function parameter
  * Return: The length of the string
  */
-size_t strlen(const char *s)
+int _strlen(char *s)
 {
-	size_t len = 0;
+	int len = 0;
 
-	while(*s++)
+	while (s++)
 		len++;
 	return (len);
 }
