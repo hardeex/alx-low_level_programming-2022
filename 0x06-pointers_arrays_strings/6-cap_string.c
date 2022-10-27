@@ -2,11 +2,11 @@
 
 /**
  *  cap_string - Capitalizes all words of a string.
- * @*: The string to be capitalized.
+ * @str: The string to be capitalized.
  *
  * Return: A pointer to the changed string.
  */
-char *cap_string(char *)
+char *cap_string(char *str)
 {
 
 	int index = 0;
