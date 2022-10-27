@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * strncpy - a function that copys the strings.
+ * _strncpy - a function that copys the strings.
  * @dest: an input string
  * @src: an input string
  * @n: an input integer

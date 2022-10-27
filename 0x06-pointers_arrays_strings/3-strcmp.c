@@ -3,7 +3,7 @@
 /**
  * _strcmp - A function that compared two strings
  * @s1: The input string- argument
- * @s1: The input string- argument
+ * @s2: The input string- argument
  *
  * Return: the string
  */
